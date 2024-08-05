@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Codes\\VisualStudioDotNET\\StudentManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45C0274C-8206-4AF4-8B2E-02DD49AF87A6}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\codes\\visualstudiodotnet\\studentmanagementapi\\studentmanagementapi\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C0274C-8206-4AF4-8B2E-02DD49AF87A6}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C0274C-8206-4AF4-8B2E-02DD49AF87A6}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\codes\\visualstudiodotnet\\studentmanagementapi\\studentmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C0274C-8206-4AF4-8B2E-02DD49AF87A6}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C0274C-8206-4AF4-8B2E-02DD49AF87A6}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\codes\\visualstudiodotnet\\studentmanagementapi\\studentmanagementapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C0274C-8206-4AF4-8B2E-02DD49AF87A6}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Codes\\VisualStudioDotNET\\StudentManagementAPI\\StudentManagementAPI\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Codes\\VisualStudioDotNET\\StudentManagementAPI\\StudentManagementAPI\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "StudentManagementAPI\\Controllers\\CoursesController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:42:34.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Codes\\VisualStudioDotNET\\StudentManagementAPI\\StudentManagementAPI\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Codes\\VisualStudioDotNET\\StudentManagementAPI\\StudentManagementAPI\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentManagementAPI\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:41:28.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Codes\\VisualStudioDotNET\\StudentManagementAPI\\StudentManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\Program.cs",
+              "ToolTip": "C:\\Codes\\VisualStudioDotNET\\StudentManagementAPI\\StudentManagementAPI\\Program.cs",
+              "RelativeToolTip": "StudentManagementAPI\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAswCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:34:24.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
